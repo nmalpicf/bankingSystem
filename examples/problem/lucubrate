@@ -1,0 +1,16 @@
+* does fractional money exist?
+  No
+
+* when (if ever) does rounding take place?
+  Always that program require to show up the prices
+
+* are costs and prices the same class of thing?
+  No, costs are the money that producer spent in create some product, comercialize
+  it, sell it, and the prices are the value you expect in return for each product.
+
+* if a shelf of 100 cans is priced using “buy two, get one free”, how do you value
+  the stock?
+  The stock have to be valued with its maximum price, that is to say, it have to
+  be assumpted that each product wont be selled as a part of the promotion, but
+  individually. So the stock value is given by the cost of each can multiplied by
+  the ammount of cans.

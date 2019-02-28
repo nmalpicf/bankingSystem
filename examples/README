@@ -1,0 +1,18 @@
+LIST OF FILES
+
+- README
+- app.rb
+- cart.rb
+- db.rb
+- menu.rb
+- modules.rb
+- products.rb
+- problem
+  * desc
+  * lucubrate
+
+USAGE
+
+Use "ruby app.rb" to execute it.
+
+ADMIN MODE: In the main menu, enter 333, and when password is required, enter "admin"
